@@ -5,4 +5,10 @@
     width: 1980px;
     height: 540px;
     background-image: linear-gradient(#e32727,#e5a930 );
+    display: flex;
+    justify-content: center;
+}
+.Header-text{
+    font-size: 76px;
+    color: aliceblue;
 }
