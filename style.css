@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.header{
+    width: 1980px;
+    height: 540px;
+    background-image: linear-gradient(#e32727,#e5a930 );
+}
